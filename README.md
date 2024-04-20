@@ -1,4 +1,4 @@
-                                                                                 KNOW-YOUR-WORLD
+                                             KNOW-YOUR-WORLD
 
 
 //This is a challenge file that is availbale on Front-end mentor.Can get the statring file of this project there - 
